@@ -32,7 +32,7 @@ import tripguide from "./tripguide.png";
 import cpp from './cpp.jpg';
 import shoppay from './shoppay.png'
 import PanunBlog from './PanunBlog.png'
-import TinDog from './tindog.png'
+import TinDog from './TinDog.png'
 
 export {
   logo,
